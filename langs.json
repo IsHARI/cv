@@ -1,0 +1,55 @@
+{
+    "mnth01": ["January", "Styczeń"],
+    "mnth02": ["February", "Luty"],
+    "mnth03": ["March", "Marzec"],
+    "mnth04": ["April", "Kwiecień"],
+    "mnth05": ["May", "Maj"],
+    "mnth06": ["June", "Czerwiec"],
+    "mnth07": ["July", "Lipiec"],
+    "mnth08": ["August", "Sierpień"],
+    "mnth09": ["September", "Wrzesień"],
+    "mnth10": ["October", "Październik"],
+    "mnth11": ["November", "Listopad"],
+    "mnth12": ["December", "Grudzień"],
+    "present": ["Present", "Teraz"],
+
+    "poland": ["Poland", "Polska"],
+
+    "about": ["About", "O mnie"],
+    "summary": ["Programming has always been my passion, I was taking my first steps in this field at the age of 7. I'm experienced in C#, Python, and Javascript, among others. I have worked both as a developer at a company, as well as a freelancer. Because programming is not only my career, but also my passion, I enjoy increasing my competences by learning new languages.", "Programowanie od zawsze było moją pasją, pierwsze kroki na tym polu zacząłem stawiać w wieku 7 lat. Mam doświadczenie m. in. w C#, Pythonie i Javascripcie. Pracowałem zarówno na etacie jako developer, a także jako wolny strzelec. Z racji tego, że programowanie łączy u mnie zajęcie zarobkowe z pasją, z przyjemnością stale poszerzam swoje kompetencje ucząc się nowych języków."],
+
+    "exp": ["Experience", "Doświadczenie"],
+    "dev": ["Software Developer", "Programista"],
+    "granteam-desc": ["Extended and configured a LIMS class system according to the clients' needs.","Rozszerzałem i konfigurowałem system klasy LIMS według potrzeb klienta."],
+    "volunteer": ["Volunteer", "Wolontariusz"],
+    "idea-desc": ["Helped develop an app for the 2018 Map_IT hackathon.", "Pomogłem stworzyć aplikację na hackaton Map_IT 2018."],
+    "juniordev": ["Junior Software Developer", "Młodszy Programista"],
+    "motorola-desc": ["Helped debug automatic tests for server software.", "Pomagałem debugować testy automatyczne oprogramowania serwerowego."],
+
+    "edu": ["Education", "Wykształcenie"],
+    "uj": ["Jagiellonian University", "Uniwersytet Jagielloński"],
+    "bachelor": ["Bachelor Degree", "Studia I stopnia"],
+    "cs": ["Computer Science", "Informatyka Stosowana"],
+    "bootcamp": ["Coding boot camp", "Kurs programowania"],
+
+    "projects": ["Projects", "Projekty"],
+    "play-browser": ["Play in browser", "Graj w przeglądarce"],
+    "grav-desc": ["A puzzle platformer in space. Work in progress", "Platformówka logiczna w kosmosie. Praca w toku"],
+
+    "skills": ["Skills", "Umiejętności"],   
+    "proglangs": ["Programming languages", "Języki programowania"],
+    "tools": ["Tools", "Narzędzia"],
+    "langs": ["Languages", "Języki"],
+    "polish": ["Polish – Native", "Polski – Rodzimy"],
+    "english": ["English – C1", "Angielski – C1"],
+    "misc": ["Miscellaneous", "Różne"],
+
+    "interests": ["Interests", "Zainteresowania"],
+    "programming": ["Programming", "Programowanie"],
+    "dancing": ["Swing dancing", "Taniec swingowy"],
+    "history": ["History", "Historia"],
+    "woodworking": ["Woodworking", "Stolarstwo"],
+    "chess": ["Chess", "Szachy"],
+    "videogames": ["Video games", "Gry komputerowe"],
+    "rpgs": ["Tabletop RPGs", "Gry fabularne (RPG)"]
+}
